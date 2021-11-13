@@ -1,4 +1,4 @@
-# devfolio
+# News Today(Headlines)
 
 //Project Worinkg Method....
 This project is based on News Search.
